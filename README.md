@@ -6,6 +6,7 @@ Lists gold and silver price in USD on request.
 
 ```shell
 20:18 Ag: 20.94$; Au: 1819.93$
+<time of last request> Ag: <silver price in usd per ounce>; Au: <gold price in usd per ounce>
 ```
 
 ## API
